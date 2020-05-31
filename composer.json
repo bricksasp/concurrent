@@ -1,0 +1,24 @@
+{
+    "name": "bricksasp/concurrent",
+    "description": "bricksasp concurrent",
+    "keywords": ["yii2", "concurrent"],
+    "type": "yii2-extension",
+    "support": {
+        "issues": "https://github.com/bricksasp/concurrent/issues",
+        "source": "https://github.com/bricksasp/concurrent"
+    },
+    "authors": [
+        {
+            "name": "bricksasp",
+            "email": "649909457@qq.com"
+        }
+    ],
+    "require": {
+        "bricksasp/base": "~1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "bricksasp\\concurrent\\": ""
+        }
+    }
+}
