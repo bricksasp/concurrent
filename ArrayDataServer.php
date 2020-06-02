@@ -89,11 +89,6 @@ class ArrayServer
     }
 }
 
-$worker = new ArrayServer('127.0.0.1', 2207);
-
-
-Worker::runAll();
-
 
 // 归并排序
 function merge_sort($arr)
