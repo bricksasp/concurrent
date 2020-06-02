@@ -90,11 +90,6 @@ class QueueJobServer
     }
 }
 
-$worker = new QueueJobServer('127.0.0.1', 2208);
-
-
-Worker::runAll();
-
 // job结构['job'=>'标识' , 'parama1'=>1 ,'parama2'=>2 ,...]
 function jobEvent($data)
 {

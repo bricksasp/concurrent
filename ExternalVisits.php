@@ -97,8 +97,3 @@ class ExternalVisits
         }
     }
 }
-
-$worker = new ExternalVisits('127.0.0.1', 2209);
-
-
-Worker::runAll();
