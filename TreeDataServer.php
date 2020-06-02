@@ -1,8 +1,8 @@
 <?php
-namespace basp\concurrent;
+namespace bricksasp\concurrent;
 
 use Workerman\Worker;
-use basp\concurrent\Tree;
+use bricksasp\concurrent\Tree;
 
 /**
  * Tree data server.

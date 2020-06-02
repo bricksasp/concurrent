@@ -1,7 +1,7 @@
 <?php
-namespace basp\concurrent;
+namespace bricksasp\concurrent;
 
-use basp\concurrent\TreeNode;
+use bricksasp\concurrent\TreeNode;
 
 class Tree
 {

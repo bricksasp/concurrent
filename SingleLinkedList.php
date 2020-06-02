@@ -1,7 +1,7 @@
 <?php
-namespace basp\concurrent;
+namespace bricksasp\concurrent;
 
-use basp\concurrent\SingleLinkedListNode;
+use bricksasp\concurrent\SingleLinkedListNode;
 
 /**
  * 单链表

@@ -1,8 +1,8 @@
 <?php
-namespace basp\concurrent;
+namespace bricksasp\concurrent;
 
 use Workerman\Worker;
-use basp\concurrent\QueueOnLinkedList;
+use bricksasp\concurrent\QueueOnLinkedList;
 
 /**
  * Queue data server.

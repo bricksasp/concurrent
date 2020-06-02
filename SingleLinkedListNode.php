@@ -1,5 +1,5 @@
 <?php
-namespace basp\concurrent;
+namespace bricksasp\concurrent;
 
 /**
  * 单链表节点

@@ -1,5 +1,5 @@
 <?php
-namespace basp\concurrent;
+namespace bricksasp\concurrent;
 
 /**
  *  concurrent data client test.
